@@ -42,7 +42,7 @@
       ],
       "serviceDesc": "使脚本自动操作(点击、长按、滑动等)所需，若关闭则只能执行不涉及自动操作的脚本。",
       "splashIcon": "res/splashIcon.png",
-      "splashText": "天天象棋你马没了娱乐"
+      "splashText": "象棋助手体验版"
     },
     "libs": [
       "libopencv_java4.so",
@@ -62,7 +62,7 @@
       "libjackpal-termexec2.so"
     ],
     "main": "main.js",
-    "name": "天天象棋你马没了",
+    "name": "象棋助手体验版",
     "outputPath": "/storage/emulated/0/脚本/nohorse/build",
     "packageName": "com.ttxq.nmml",
     "projectDirectory": "/storage/emulated/0/脚本/nohorse",
