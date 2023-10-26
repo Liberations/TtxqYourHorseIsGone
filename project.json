@@ -64,7 +64,7 @@
     "main": "main.js",
     "name": "象棋助手体验版",
     "outputPath": "/storage/emulated/0/脚本/nohorse/build",
-    "packageName": "com.ttxq.nmml",
+    "packageName": "com.ttxq.pikafishui",
     "projectDirectory": "/storage/emulated/0/脚本/nohorse",
     "scripts": {},
     "signingConfig": {
